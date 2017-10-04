@@ -1,0 +1,29 @@
+body{
+  background-image:url("https://images.unsplash.com/photo-1504293538349-0be9a181d474?dpr=1&auto=compress,format&fit=crop&w=1834&h=&q=80&cs=tinysrgb&crop=");
+    background-size:cover; 
+  font-family:"Indie Flower";
+color:white;   
+}
+#header{
+  background:rgba(0,0,0,.5);
+  border: 10px black solid ;
+  border-radius: 25px;
+ 
+}
+img{
+  width:100px;
+  border-radius: 10px;
+}
+.col-md-4{
+  padding: 10px;
+}
+.row{
+  background:rgba(0,0,0,.5);
+  border: 5px black solid ;
+  border-radius:25px;
+  padding: 5px;
+  font-size:20px;
+  
+}
+
+// imported Indie-Flower from google 
